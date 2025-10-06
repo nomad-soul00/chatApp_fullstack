@@ -70,6 +70,3 @@ const ChatContainer = ({ selectedUser, setSelectedUser }) => {
 }
 
 export default ChatContainer
-
-
-// 1:19:00
